@@ -59,3 +59,6 @@ This restored the lab environment to a normal and stable state.
 ## Disclaimer
 
 This lab was conducted in a private virtual environment for educational purposes only. No real or unauthorized networks were targeted.
+
+---
+
